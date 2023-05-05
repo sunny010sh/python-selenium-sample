@@ -6,8 +6,8 @@ from selenium.webdriver.common.by import By
 
 username = os.getenv("LT_USERNAME")  # Replace the username
 access_key = os.getenv("LT_ACCESS_KEY")  # Replace the access key
- print(username)
-  print(access_key)  
+print(username)
+print(access_key)  
 
 
 
